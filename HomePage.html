@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>
+            My Manager
+        </title>
+
+        <link rel="stylesheet" href="../css/HomePage.css">
+    </head>
+
+    <body class="background">
+        <p class="ag67_90">
+            My Manager 
+        </p>
+
+        <div class="sepdiv">
+
+        </div>
+
+        <button class="addtask">
+         Add Task/Goal
+        </button>
+
+        <div class="sepdiv">
+
+        </div>
+
+        <div class="Task-Goal-Design" id="Task-Goal-Design">
+            <p class="TSK_NME" id="TSK_NME">
+                Task Name: Start up!
+            </p>
+
+            <input class="TaskNameInput" id="input" minlength="2" maxlength="25" type="text">
+
+            <input type="submit" class="ChangeTaskNameButton" id="SubmitBtn" onclick="SubmitInputToText()">
+
+            <p class="statustext1">
+                Status:
+            </p>
+
+            <p class="statustext" id="statusTXT">
+                STATUS
+            </p>
+
+            <button class="hig-button0" onclick="ChangeTextCompleted()">
+                Completed
+            </button>
+
+            <button class="hig-button1" onclick="ChangeTextWorkingOnIt()">
+                Working On It
+            </button>
+
+            <button class="hig-button2" onclick="ChangeTextStuck()">
+                STUCK!
+            </button>
+            
+            <button class="hig-button3" onclick="ChangeTextHaventStarted()">
+                Haven't Started
+            </button>
+        </div>
+        
+        <script src="../javascript/HomePage.js">
+           
+        </script>
+    </body>
+</html>

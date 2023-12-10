@@ -1,0 +1,152 @@
+.background
+{
+    background-color: #28231D;
+}
+
+.ag67_90
+{
+    font-size: 40px;
+    color: white;
+    font-weight: 900;
+    margin-top: -7px;
+}
+
+.sepdiv
+{
+    height: 15px;
+}
+
+.addtask
+{
+    margin-left: 20px;
+    background-color: rgb(58, 58, 58);
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.Task-Goal-Design
+{
+    background-color: whitesmoke;
+    width: 400px;
+    height: 600px;
+    border-radius: 20px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.TSK_NME
+{
+    font-size: 35px;
+    margin-left: 15px;
+    margin-top: -5px;
+}
+
+.statustext1
+{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+}
+
+.statustext
+{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 55px;
+    margin-top: -39px;
+}
+
+.hig-button0
+{
+    background-color: rgb(80, 230, 80);
+    width: 155px;
+    height: 35px;
+    border-color: rgb(80, 230, 80);
+    margin-top: 10px;
+    margin-left: 20px;
+    color: black;
+    border-radius: 10px;
+    border-width: 7px;
+}
+
+.hig-button1
+{
+    background-color: rgb(219, 171, 13);
+    width: 155px;
+    height: 35px;
+    border-color: rgb(219, 171, 13);
+    margin-top: 10px;
+    margin-left: 20px;
+    color: black;
+    border-radius:  10px;
+    border-width: 7px;
+}
+
+.hig-button2
+{
+    background-color: rgb(40, 151, 202);
+    width: 155px;
+    height: 35px;
+    border-color: rgb(40, 151, 202);
+    margin-top: 20px;
+    margin-left: 20px;
+    color: black;
+    border-radius:  10px;
+    border-width: 7px;
+}
+
+.hig-button3
+{
+    background-color: rgb(219, 26, 13);
+    width: 155px;
+    height: 35px;
+    border-color: rgb(219, 26, 13);
+    margin-top: 20px;
+    margin-left: 20px;
+    color: black;
+    border-radius:  10px;
+    border-width: 7px;
+}
+
+.TaskNameInput
+{
+    margin-top: 300px;
+    margin-left: 5px;
+    width: 250px;
+    height: 35px;
+    border-radius: 20px;
+    font-size: 30px;
+    border-width: 2px;
+    background-color: #28231D;
+    color: white;
+}
+
+.ChangeTaskNameButton
+{
+    display: block;
+    margin-left: 270px;
+    margin-top: -38px;
+    width: 110px;
+    height: 37px;
+    border-radius: 20px;
+    border-width: 2px;
+    background-color: #28231D;
+    color: white;
+}
+
+.ChangeTaskNameButton:hover
+{
+    display: block;
+    margin-left: 270px;
+    margin-top: -38px;
+    width: 110px;
+    height: 37px;
+    border-radius: 20px;
+    border-width: 5px;
+    background-color: white;
+    color: #28231D;
+}
